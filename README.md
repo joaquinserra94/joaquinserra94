@@ -3,13 +3,14 @@
 ### In 2023, I started to play golf🏌️‍♂️, and I love it! 
 ### This is my personal repository where I will be working on different projects and university activities🫣. 
 ### Enjoy it!! 🤩
+- 🔭 I’m currently working on my future!!
+- 🌱 I’m currently learning a lot of different things!!
+- 💬 Ask me about anything
+- 📫 How to reach me: joaquinserra94@gmail.com
 <a href="https://app.daily.dev/joaquinserra94"><img src="https://api.daily.dev/devcards/v2/5iThO5yb8mHiD0GfqL8YN.png?r=vz5&type=wide" width="652" alt="Joaquin Serra's Dev Card"/></a>
 
 <!--
 **joaquinserra94/joaquinserra94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on my future!!
-- 🌱 I’m currently learning a lot of different things!!
-- 💬 Ask me about anything
-- 📫 How to reach me: joaquinserra94@gmail.com
+
 

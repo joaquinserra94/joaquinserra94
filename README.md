@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning a lot of different things!!
 - 💬 Ask me about anything
 - 📫 How to reach me: joaquinserra94@gmail.com
+  
 <a href="https://app.daily.dev/joaquinserra94"><img src="https://api.daily.dev/devcards/v2/5iThO5yb8mHiD0GfqL8YN.png?type=default&r=0nj" width="356" alt="Joaquín Serra's Dev Card"/></a>
 
 <!--

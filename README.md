@@ -1,5 +1,5 @@
 ### Hi there! 👋 My name is Joaquin ✌️. I'm from Argentina but I've been living in Spain since 2020. 
-### I used to be a very good swimmer🏊‍♂️, and I've traveled around the world🌎. Now I am studying Software Engineering👨‍💻 and improving my skills daily🤓. 
+### I used to be a very good swimmer🏊‍♂️, and I've travelled around the world🌎. Now I am studying Software Engineering👨‍💻 and improving my skills daily🤓. 
 ### In 2023, I started to play golf🏌️‍♂️, and I love it! 
 ### This is my personal repository where I will be working on different projects and university activities🫣. 
 ### Enjoy it!! 🤩

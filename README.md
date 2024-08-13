@@ -4,7 +4,7 @@
 ### This is my personal repository where I will be working on different projects and university activities🫣. 
 ### Enjoy it!! 🤩
 
-- 👨‍💻 Software Developer | Python | Java | JavaScript | SQL | AWS | Arduino | HTML |
+- 👨‍💻 Software Developer | Python | Java | JavaScript | SQL | AWS | Arduino | HTML | Odoo |
 - 🔭 I’m currently working on my future!!
 - 🌱 I’m currently learning a lot of different things!!
 - 💬 Ask me about anything
